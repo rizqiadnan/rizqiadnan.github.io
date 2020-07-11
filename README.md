@@ -8,3 +8,5 @@ Minimum terdapat 3 halaman
 --> Modal terdapat di halaman about (F.A.Q)
 
 --> Formspree terdapat di halaman Contact
+
+--> perubahan pada tampilan profile
